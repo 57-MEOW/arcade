@@ -1,0 +1,13 @@
+{
+  "name": "五七的游戏厅",
+  "short_name": "游戏厅",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e1e20",
+  "theme_color": "#1e1e20",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
